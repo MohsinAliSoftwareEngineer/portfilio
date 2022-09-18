@@ -1,0 +1,197 @@
+* {
+    color:#eee ;
+    font-family: monospace;
+    
+}
+.container {
+    background-color: #282c34;
+    align-items: center;
+    font-family: monospace;
+    color: #eee;
+
+}
+.header a {
+    font-size: 17px;
+    color:#eee ;
+    font-family: monospace;
+    
+
+}
+.banner {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.head1 h1{
+    font-family: "Reem Kufi",sans-serif;
+    color: #eee;
+    margin-top: 10px;
+    font-weight: bolder;
+
+}
+i{
+    font-size: 25px;
+}
+.drop{
+    font-size: 20px;
+    margin-top: 150px;
+}
+.about {
+    background-color: #2B2B2B;
+}
+    
+
+
+.pic {
+    height: 130px;
+    width: 130px;
+    margin-left: 150px;
+    margin-top: 28px;
+    border-radius: 15px;
+}
+h4 {
+    margin-top: 30px;
+}
+.btn {
+    font-weight:bolder;
+    background-color: #2B2B2B;
+    
+}
+.Dbtn {
+    margin-top: 40px;
+}
+.section2 {
+    background-color: lightcoral;
+     align-items: center;
+    font-family: monospace;
+   
+    
+}
+.work1 h5 {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bolder;
+    
+    
+    
+  
+}
+.work2 h5 {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bolder;
+    margin-left: 35px;
+    
+  
+}
+
+.work3 h5 {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bolder;
+    margin-left: 20px;
+    
+  
+}
+.line hr {
+    width:65%;
+    margin-left: 150PX;
+}
+.wh h4 {
+    font-weight: bolder;
+    color: #11ABB0;
+}
+.wh h6 {
+    font-style: italic;
+    color: #282c34;
+}
+.Ed h4 {
+    font-weight: 700;
+    color: black;
+}
+.Ed h6 {
+    font-style: italic;
+    color:#282c34;
+}
+.fa-brands fa-html5 {
+    font-size:30px ;
+}
+.col-skills i {
+    font-size: 60px;
+    padding: 10px;
+
+}
+.col1-skills {
+    font-size: 60px;
+    padding: 10px;
+}
+.footer {
+    background-color: grey;
+    
+}
+.footer h6 {
+    padding: 50px;
+    text-align: center;
+    margin-right: 200px;
+    color: lightgray;
+}
+.section3 {
+    background-color: black ;
+    align-items: center;
+   font-family: monospace;
+
+}
+.slider h4 {
+    font-style: italic;
+    color: #eee;
+    font-weight:bolder;
+    text-align: center;
+    padding: 100px;
+    font-size: 30px;
+}
+
+
+.ff p {
+    text-align: center;
+    color: #2B2B2B;
+}
+.email {
+    margin: 10px;
+    height:35px;
+    width:90%;
+    background-color: #282c34;
+}
+.label  {
+    text-align: right;
+    padding-top: 20px;
+    margin-right: 250px;
+    font-size: 15px;
+    
+}
+.message {
+    height:100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 90%;
+    text-align:start ;
+    background-color: #282c34;
+    
+}
+.btna {
+    margin-left: 280px;
+    padding: 30px;
+   
+    
+
+}
+.btna .btn {
+    background-color: #11ABB0;
+    height: 40px;
+    
+}
+.section4 {
+    background-color: #2B2B2B;
+    align-items: center;
+    font-family: monospace;
+}
