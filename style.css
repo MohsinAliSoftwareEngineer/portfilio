@@ -1,0 +1,343 @@
+* {
+    color:#eee ;
+    font-family: monospace;
+    
+}
+.container {
+    background-color: #282c34;
+    align-items: center;
+    font-family: monospace;
+    color: #eee;
+
+}
+.headerli a {
+    font-size: 17px;
+    color:#eee ;
+    font-family: monospace;
+    
+
+}
+.headerli .sticky{
+    
+        position: fixed;
+        top: 0;
+        width: 100%;
+    
+      
+}
+
+
+.banner {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.head1 h1{
+    font-family: "Reem Kufi",sans-serif;
+    color: #eee;
+    margin-top: 10px;
+    font-weight: bolder;
+
+}
+.slider1 h6 {
+    font-size:15px;
+    font-weight: lighter;
+}
+i{
+    font-size: 25px;
+}
+.drop{
+    font-size: 20px;
+    margin-top: 150px;
+}
+.about {
+    background-color: #2B2B2B;
+}
+    
+
+
+.pic {
+    height: 130px;
+    width: 130px;
+    margin-left: 150px;
+    margin-top: 28px;
+    border-radius: 15px;
+}
+h4 {
+    margin-top: 30px;
+}
+.btn {
+    font-weight:bolder;
+    background-color: #2B2B2B;
+    
+}
+.Dbtn {
+    margin-top: 40px;
+}
+.section2 {
+    background-color: #0d0c32;
+    align-items: center;
+    font-family: monospace;
+
+   
+    
+}
+.work1 h4 {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bolder;
+    color: black;
+    
+    
+    
+  
+}
+.work2 h4 {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bolder;
+    margin-left: 35px;
+    color: black;
+    
+  
+}
+
+.work3 h4 {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bolder;
+    margin-left: 20px;
+    color: black;
+    
+  
+}
+.line hr {
+    width:65%;
+    margin-left: 150PX;
+}
+.wh h4 {
+    font-weight: bolder;
+    color: #11ABB0;
+}
+.wh h6 {
+    font-style: italic;
+    color: #282c34;
+}
+.Ed h4 {
+    font-weight: 700;
+    color: black;
+}
+.Ed h6 {
+    font-style: italic;
+    color:#282c34;
+}
+.fa-brands fa-html5 {
+    font-size:30px ;
+}
+.col-skills i {
+    font-size: 60px;
+    padding: 10px;
+
+}
+.col1-skills {
+    font-size: 60px;
+    padding: 10px;
+}
+.footer {
+    background-color: grey;
+    
+}
+.footer h6 {
+    padding: 50px;
+    text-align: center;
+    margin-right: 200px;
+    color: lightgray;
+}
+.section3 {
+    background-color: black ;
+    align-items: center;
+    font-family: monospace;
+  
+}
+.slider h4 {
+    font-style: italic;
+    color: #eee;
+    font-weight:bolder;
+    text-align: center;
+    padding: 100px;
+    font-size: 30px;
+}
+
+
+.ff p {
+    text-align: center;
+    color: #2B2B2B;
+}
+.email {
+    margin: 10px;
+    height:35px;
+    width:90%;
+    background-color: #282c34;
+}
+.label1  {
+    text-align: right;
+    padding-top: 20px;
+    margin-right: 250px;
+    font-size: 15px;
+    
+}
+.label2  {
+    text-align: right;
+    padding-top: 20px;
+    margin-right: 250px;
+    font-size: 15px;
+    
+}
+.message {
+    height:100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 90%;
+    text-align:start ;
+    background-color: #282c34;
+    
+}
+.btna {
+    margin-left: 30px;
+    padding: 30px;
+   
+    
+
+}
+.btna .btn {
+    background-color: #11ABB0;
+    height: 40px;
+    
+}
+.section4 {
+    background-color: black;
+    align-items: center;
+    font-family: monospace;
+} 
+.dropdown {
+    padding: 10px 7px;
+    color: white;
+    display: none;
+  
+    
+}
+.abouthead {
+    text-underline-position: below color red;;
+
+}
+   
+
+@media screen and (max-width:600px) {
+   .headerli a{
+    display: none;
+   }
+   .dropdown {
+    display: flex;
+   }
+   
+.pic {
+    height: 220px;
+    width: 220px;
+    margin-left: 150px;
+    margin-top: 28px;
+    border-radius: 100px;
+    justify-content: center;
+}
+
+.aboutc h4 {
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace;
+
+}
+.aboutc p {
+    text-align: justify;
+
+    margin-left: 8px;
+    font-family: monospace;
+   
+}
+.contact h4 {
+    font-weight: bold;
+    text-align: center;
+
+    font-family: monospace;
+
+}
+.contact pass{
+    font-family: monospace;
+  
+}
+.Dbtn {
+    
+    display: flex;
+    margin-left: 170px;
+    padding-bottom: 30px;
+}
+.work1 h4{
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace;
+    color: #eee;
+    font-style: 28px;
+
+}
+.wh h4, h6, p {
+    color: #11ABB0;
+
+}
+.wh h4 {
+    text-align: justify;
+}
+.work2 h4{
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace;
+    color: #eee;
+    font-style: 28px;
+
+}
+.work3 h4{
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace;
+    color: #eee;
+    font-style: 28px;
+
+}
+.footer {
+    text-align: center;
+    flex-direction: row;
+   
+    
+}
+.col-skills i {
+    font-size: 50px;
+    padding: 6px;
+
+
+}
+
+.section2 {
+    background-color: #0d0c32;   
+}
+.line hr {
+    width:500px;
+    margin-right: 30px;
+   
+}
+.label1  {
+    
+    padding-top: 20px;
+    margin-right: 200px;
+    font-size: 15px;
+    
+}
+
+}
