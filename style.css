@@ -240,14 +240,20 @@ h4 {
    .dropdown {
     display: flex;
    }
+   .image  {
+    justify-content: center;
+    
+   }
    
 .pic {
-    height: 220px;
-    width: 220px;
-    margin-left: 150px;
+    height: 150px;
+    width: 150px;
+    align-items: center;
     margin-top: 28px;
     border-radius: 100px;
-    justify-content: center;
+   
+   
+   
 }
 
 .aboutc h4 {
@@ -277,7 +283,7 @@ h4 {
 .Dbtn {
     
     display: flex;
-    margin-left: 170px;
+    justify-content: center;
     padding-bottom: 30px;
 }
 .work1 h4{
@@ -325,7 +331,7 @@ h4 {
 }
 
 .section2 {
-    background-color: #0d0c32;   
+    background-color: darkgrey;   
 }
 .line hr {
     width:500px;
